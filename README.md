@@ -1,4 +1,4 @@
-# dsa
+# algorithms-ds
 implementation of Data Structures and Algorithms. :neckbeard:
 
 > i will be updating the implementation of some of the DS or A from the following :point_down: wiki links weekly.

@@ -22,7 +22,6 @@ node* insert(node* root, int data) {
 		root->left = insert(root->left,data);
 	else
 		root->right = insert(root->right,data);
-	
 	return root;
 }
 
@@ -47,7 +46,7 @@ int height(node* root) {
 
 int main() {
 	node* root = NULL;
-	int tmp = 8,n;
+	int tmp = 10,n;
 	while (tmp--) {
 		cin >> n;
 		root = insert(root,n);

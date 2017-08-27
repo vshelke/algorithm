@@ -1,7 +1,6 @@
 #include <iostream>
 #include <stack>
 #include <algorithm>
-//#include <bits/stdc++.h>
 using namespace std;
 struct id
 {
